@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Convert Number in Characters\Convert Number in Characters\obj\Debug\Convert Number in Characters.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Convert Number in Characters\Convert Number in Characters\bin\Debug\Convert Number in Characters.exe.config
+E:\Pragnesh C#\Convert Number in Characters\Convert Number in Characters\bin\Debug\Convert Number in Characters.exe
+E:\Pragnesh C#\Convert Number in Characters\Convert Number in Characters\bin\Debug\Convert Number in Characters.pdb
+E:\Pragnesh C#\Convert Number in Characters\Convert Number in Characters\obj\Debug\Convert Number in Characters.exe
+E:\Pragnesh C#\Convert Number in Characters\Convert Number in Characters\obj\Debug\Convert Number in Characters.pdb
+E:\Pragnesh C#\Convert Number in Characters\Convert Number in Characters\obj\Debug\Convert Number in Characters.csproj.AssemblyReference.cache

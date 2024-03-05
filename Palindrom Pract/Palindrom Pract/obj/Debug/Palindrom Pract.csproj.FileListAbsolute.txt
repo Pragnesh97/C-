@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Palindrom Pract\Palindrom Pract\bin\Debug\Palindrom Pract.exe.config
+E:\Pragnesh C#\Palindrom Pract\Palindrom Pract\bin\Debug\Palindrom Pract.exe
+E:\Pragnesh C#\Palindrom Pract\Palindrom Pract\bin\Debug\Palindrom Pract.pdb
+E:\Pragnesh C#\Palindrom Pract\Palindrom Pract\obj\Debug\Palindrom Pract.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Palindrom Pract\Palindrom Pract\obj\Debug\Palindrom Pract.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Palindrom Pract\Palindrom Pract\obj\Debug\Palindrom Pract.exe
+E:\Pragnesh C#\Palindrom Pract\Palindrom Pract\obj\Debug\Palindrom Pract.pdb

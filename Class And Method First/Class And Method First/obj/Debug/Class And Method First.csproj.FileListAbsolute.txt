@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Class And Method First\Class And Method First\bin\Debug\Class And Method First.exe.config
+E:\Pragnesh C#\Class And Method First\Class And Method First\bin\Debug\Class And Method First.exe
+E:\Pragnesh C#\Class And Method First\Class And Method First\bin\Debug\Class And Method First.pdb
+E:\Pragnesh C#\Class And Method First\Class And Method First\obj\Debug\Class And Method First.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Class And Method First\Class And Method First\obj\Debug\Class And Method First.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Class And Method First\Class And Method First\obj\Debug\Class And Method First.exe
+E:\Pragnesh C#\Class And Method First\Class And Method First\obj\Debug\Class And Method First.pdb

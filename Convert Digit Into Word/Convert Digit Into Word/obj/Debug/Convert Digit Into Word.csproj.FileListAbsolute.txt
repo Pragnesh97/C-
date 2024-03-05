@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Convert Digit Into Word\Convert Digit Into Word\obj\Debug\Convert Digit Into Word.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Convert Digit Into Word\Convert Digit Into Word\obj\Debug\Convert Digit Into Word.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Convert Digit Into Word\Convert Digit Into Word\bin\Debug\Convert Digit Into Word.exe.config
+E:\Pragnesh C#\Convert Digit Into Word\Convert Digit Into Word\bin\Debug\Convert Digit Into Word.exe
+E:\Pragnesh C#\Convert Digit Into Word\Convert Digit Into Word\bin\Debug\Convert Digit Into Word.pdb
+E:\Pragnesh C#\Convert Digit Into Word\Convert Digit Into Word\obj\Debug\Convert Digit Into Word.exe
+E:\Pragnesh C#\Convert Digit Into Word\Convert Digit Into Word\obj\Debug\Convert Digit Into Word.pdb

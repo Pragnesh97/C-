@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print The Element Of The Following List Using Loop", "Print The Element Of The Following List Using Loop\Print The Element Of The Following List Using Loop.csproj", "{823CA525-8EFE-4EF7-9F05-5E8B75C38972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{823CA525-8EFE-4EF7-9F05-5E8B75C38972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823CA525-8EFE-4EF7-9F05-5E8B75C38972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823CA525-8EFE-4EF7-9F05-5E8B75C38972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823CA525-8EFE-4EF7-9F05-5E8B75C38972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B73A76B-BA59-4C89-AC5B-2DAB80986F31}
+	EndGlobalSection
+EndGlobal

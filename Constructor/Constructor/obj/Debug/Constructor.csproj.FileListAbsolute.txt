@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Constructor\Constructor\bin\Debug\Constructor.exe.config
+E:\Pragnesh C#\Constructor\Constructor\bin\Debug\Constructor.exe
+E:\Pragnesh C#\Constructor\Constructor\bin\Debug\Constructor.pdb
+E:\Pragnesh C#\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Constructor\Constructor\obj\Debug\Constructor.exe
+E:\Pragnesh C#\Constructor\Constructor\obj\Debug\Constructor.pdb

@@ -1,0 +1,7 @@
+E:\Pragnesh C#\All In One\All In One\bin\Debug\All In One.exe.config
+E:\Pragnesh C#\All In One\All In One\bin\Debug\All In One.exe
+E:\Pragnesh C#\All In One\All In One\bin\Debug\All In One.pdb
+E:\Pragnesh C#\All In One\All In One\obj\Debug\All In One.csproj.AssemblyReference.cache
+E:\Pragnesh C#\All In One\All In One\obj\Debug\All In One.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\All In One\All In One\obj\Debug\All In One.exe
+E:\Pragnesh C#\All In One\All In One\obj\Debug\All In One.pdb

@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Pragnesh C#\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Pragnesh C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Pragnesh C#\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Pragnesh C#\Calculator\Calculator\obj\Debug\Calculator.pdb

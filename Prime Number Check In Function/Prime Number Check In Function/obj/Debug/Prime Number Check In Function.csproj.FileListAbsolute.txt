@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Prime Number Check In Function\Prime Number Check In Function\bin\Debug\Prime Number Check In Function.exe.config
+E:\Pragnesh C#\Prime Number Check In Function\Prime Number Check In Function\bin\Debug\Prime Number Check In Function.exe
+E:\Pragnesh C#\Prime Number Check In Function\Prime Number Check In Function\bin\Debug\Prime Number Check In Function.pdb
+E:\Pragnesh C#\Prime Number Check In Function\Prime Number Check In Function\obj\Debug\Prime Number Check In Function.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Prime Number Check In Function\Prime Number Check In Function\obj\Debug\Prime Number Check In Function.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Prime Number Check In Function\Prime Number Check In Function\obj\Debug\Prime Number Check In Function.exe
+E:\Pragnesh C#\Prime Number Check In Function\Prime Number Check In Function\obj\Debug\Prime Number Check In Function.pdb

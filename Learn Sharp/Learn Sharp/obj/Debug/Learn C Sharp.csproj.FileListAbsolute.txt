@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Learn Sharp\Learn Sharp\bin\Debug\Learn C Sharp.exe.config
+E:\Pragnesh C#\Learn Sharp\Learn Sharp\bin\Debug\Learn C Sharp.exe
+E:\Pragnesh C#\Learn Sharp\Learn Sharp\bin\Debug\Learn C Sharp.pdb
+E:\Pragnesh C#\Learn Sharp\Learn Sharp\obj\Debug\Learn C Sharp.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Learn Sharp\Learn Sharp\obj\Debug\Learn C Sharp.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Learn Sharp\Learn Sharp\obj\Debug\Learn C Sharp.exe
+E:\Pragnesh C#\Learn Sharp\Learn Sharp\obj\Debug\Learn C Sharp.pdb

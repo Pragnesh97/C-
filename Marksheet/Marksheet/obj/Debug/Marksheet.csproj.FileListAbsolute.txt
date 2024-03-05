@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Marksheet\Marksheet\bin\Debug\Marksheet.exe.config
+E:\Pragnesh C#\Marksheet\Marksheet\bin\Debug\Marksheet.exe
+E:\Pragnesh C#\Marksheet\Marksheet\bin\Debug\Marksheet.pdb
+E:\Pragnesh C#\Marksheet\Marksheet\obj\Debug\Marksheet.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Marksheet\Marksheet\obj\Debug\Marksheet.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Marksheet\Marksheet\obj\Debug\Marksheet.exe
+E:\Pragnesh C#\Marksheet\Marksheet\obj\Debug\Marksheet.pdb

@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Class and Object\Class and Object\bin\Debug\Class and Object.exe.config
+E:\Pragnesh C#\Class and Object\Class and Object\bin\Debug\Class and Object.exe
+E:\Pragnesh C#\Class and Object\Class and Object\bin\Debug\Class and Object.pdb
+E:\Pragnesh C#\Class and Object\Class and Object\obj\Debug\Class and Object.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Class and Object\Class and Object\obj\Debug\Class and Object.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Class and Object\Class and Object\obj\Debug\Class and Object.exe
+E:\Pragnesh C#\Class and Object\Class and Object\obj\Debug\Class and Object.pdb

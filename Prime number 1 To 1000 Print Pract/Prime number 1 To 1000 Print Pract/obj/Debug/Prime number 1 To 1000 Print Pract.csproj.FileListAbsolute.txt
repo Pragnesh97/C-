@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Prime number 1 To 1000 Print Pract\Prime number 1 To 1000 Print Pract\bin\Debug\Prime number 1 To 1000 Print Pract.exe.config
+E:\Pragnesh C#\Prime number 1 To 1000 Print Pract\Prime number 1 To 1000 Print Pract\bin\Debug\Prime number 1 To 1000 Print Pract.exe
+E:\Pragnesh C#\Prime number 1 To 1000 Print Pract\Prime number 1 To 1000 Print Pract\bin\Debug\Prime number 1 To 1000 Print Pract.pdb
+E:\Pragnesh C#\Prime number 1 To 1000 Print Pract\Prime number 1 To 1000 Print Pract\obj\Debug\Prime number 1 To 1000 Print Pract.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Prime number 1 To 1000 Print Pract\Prime number 1 To 1000 Print Pract\obj\Debug\Prime number 1 To 1000 Print Pract.exe
+E:\Pragnesh C#\Prime number 1 To 1000 Print Pract\Prime number 1 To 1000 Print Pract\obj\Debug\Prime number 1 To 1000 Print Pract.pdb
+E:\Pragnesh C#\Prime number 1 To 1000 Print Pract\Prime number 1 To 1000 Print Pract\obj\Debug\Prime number 1 To 1000 Print Pract.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Bike Avarge Calculate\Bike Avarge Calculate\bin\Debug\Bike Avarge Calculate.exe.config
+E:\Pragnesh C#\Bike Avarge Calculate\Bike Avarge Calculate\bin\Debug\Bike Avarge Calculate.exe
+E:\Pragnesh C#\Bike Avarge Calculate\Bike Avarge Calculate\bin\Debug\Bike Avarge Calculate.pdb
+E:\Pragnesh C#\Bike Avarge Calculate\Bike Avarge Calculate\obj\Debug\Bike Avarge Calculate.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Bike Avarge Calculate\Bike Avarge Calculate\obj\Debug\Bike Avarge Calculate.exe
+E:\Pragnesh C#\Bike Avarge Calculate\Bike Avarge Calculate\obj\Debug\Bike Avarge Calculate.pdb
+E:\Pragnesh C#\Bike Avarge Calculate\Bike Avarge Calculate\obj\Debug\Bike Avarge Calculate.csproj.AssemblyReference.cache

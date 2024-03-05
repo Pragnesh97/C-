@@ -1,0 +1,14 @@
+C:\Users\Kaush\source\repos\First CSharp CWH\First CSharp CWH\bin\Debug\First CSharp CWH.exe.config
+C:\Users\Kaush\source\repos\First CSharp CWH\First CSharp CWH\bin\Debug\First CSharp CWH.exe
+C:\Users\Kaush\source\repos\First CSharp CWH\First CSharp CWH\bin\Debug\First CSharp CWH.pdb
+C:\Users\Kaush\source\repos\First CSharp CWH\First CSharp CWH\obj\Debug\First CSharp CWH.csproj.AssemblyReference.cache
+C:\Users\Kaush\source\repos\First CSharp CWH\First CSharp CWH\obj\Debug\First CSharp CWH.csproj.CoreCompileInputs.cache
+C:\Users\Kaush\source\repos\First CSharp CWH\First CSharp CWH\obj\Debug\First CSharp CWH.exe
+C:\Users\Kaush\source\repos\First CSharp CWH\First CSharp CWH\obj\Debug\First CSharp CWH.pdb
+E:\Pragnesh C#\First CSharp CWH\First CSharp CWH\bin\Debug\First CSharp CWH.exe.config
+E:\Pragnesh C#\First CSharp CWH\First CSharp CWH\bin\Debug\First CSharp CWH.exe
+E:\Pragnesh C#\First CSharp CWH\First CSharp CWH\bin\Debug\First CSharp CWH.pdb
+E:\Pragnesh C#\First CSharp CWH\First CSharp CWH\obj\Debug\First CSharp CWH.csproj.AssemblyReference.cache
+E:\Pragnesh C#\First CSharp CWH\First CSharp CWH\obj\Debug\First CSharp CWH.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\First CSharp CWH\First CSharp CWH\obj\Debug\First CSharp CWH.exe
+E:\Pragnesh C#\First CSharp CWH\First CSharp CWH\obj\Debug\First CSharp CWH.pdb

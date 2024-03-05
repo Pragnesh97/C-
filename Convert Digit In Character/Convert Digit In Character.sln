@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert Digit In Character", "Convert Digit In Character\Convert Digit In Character.csproj", "{53F128C0-4C85-4FF2-9C17-424BB65BF85C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53F128C0-4C85-4FF2-9C17-424BB65BF85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F128C0-4C85-4FF2-9C17-424BB65BF85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F128C0-4C85-4FF2-9C17-424BB65BF85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F128C0-4C85-4FF2-9C17-424BB65BF85C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36B8C733-5090-404F-B756-53E582074C5E}
+	EndGlobalSection
+EndGlobal

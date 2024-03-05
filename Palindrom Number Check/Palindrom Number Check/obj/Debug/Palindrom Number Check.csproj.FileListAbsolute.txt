@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Palindrom Number Check\Palindrom Number Check\obj\Debug\Palindrom Number Check.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Palindrom Number Check\Palindrom Number Check\obj\Debug\Palindrom Number Check.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Palindrom Number Check\Palindrom Number Check\bin\Debug\Palindrom Number Check.exe.config
+E:\Pragnesh C#\Palindrom Number Check\Palindrom Number Check\bin\Debug\Palindrom Number Check.exe
+E:\Pragnesh C#\Palindrom Number Check\Palindrom Number Check\bin\Debug\Palindrom Number Check.pdb
+E:\Pragnesh C#\Palindrom Number Check\Palindrom Number Check\obj\Debug\Palindrom Number Check.exe
+E:\Pragnesh C#\Palindrom Number Check\Palindrom Number Check\obj\Debug\Palindrom Number Check.pdb

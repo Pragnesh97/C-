@@ -1,0 +1,7 @@
+E:\Pragnesh C#\factorial Number Check\factorial Number Check\bin\Debug\factorial Number Check.exe.config
+E:\Pragnesh C#\factorial Number Check\factorial Number Check\bin\Debug\factorial Number Check.exe
+E:\Pragnesh C#\factorial Number Check\factorial Number Check\bin\Debug\factorial Number Check.pdb
+E:\Pragnesh C#\factorial Number Check\factorial Number Check\obj\Debug\factorial Number Check.csproj.AssemblyReference.cache
+E:\Pragnesh C#\factorial Number Check\factorial Number Check\obj\Debug\factorial Number Check.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\factorial Number Check\factorial Number Check\obj\Debug\factorial Number Check.exe
+E:\Pragnesh C#\factorial Number Check\factorial Number Check\obj\Debug\factorial Number Check.pdb

@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Sum Of Digit\Sum Of Digit\bin\Debug\Sum Of Digit.exe.config
+E:\Pragnesh C#\Sum Of Digit\Sum Of Digit\bin\Debug\Sum Of Digit.exe
+E:\Pragnesh C#\Sum Of Digit\Sum Of Digit\bin\Debug\Sum Of Digit.pdb
+E:\Pragnesh C#\Sum Of Digit\Sum Of Digit\obj\Debug\Sum Of Digit.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Sum Of Digit\Sum Of Digit\obj\Debug\Sum Of Digit.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Sum Of Digit\Sum Of Digit\obj\Debug\Sum Of Digit.exe
+E:\Pragnesh C#\Sum Of Digit\Sum Of Digit\obj\Debug\Sum Of Digit.pdb

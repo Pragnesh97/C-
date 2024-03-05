@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Factorial Numbers\Factorial Numbers\bin\Debug\Factorial Numbers.exe.config
+E:\Pragnesh C#\Factorial Numbers\Factorial Numbers\bin\Debug\Factorial Numbers.exe
+E:\Pragnesh C#\Factorial Numbers\Factorial Numbers\bin\Debug\Factorial Numbers.pdb
+E:\Pragnesh C#\Factorial Numbers\Factorial Numbers\obj\Debug\Factorial Numbers.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Factorial Numbers\Factorial Numbers\obj\Debug\Factorial Numbers.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Factorial Numbers\Factorial Numbers\obj\Debug\Factorial Numbers.exe
+E:\Pragnesh C#\Factorial Numbers\Factorial Numbers\obj\Debug\Factorial Numbers.pdb

@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Armstrong Numbers\Armstrong Numbers\bin\Debug\Armstrong Numbers.exe.config
+E:\Pragnesh C#\Armstrong Numbers\Armstrong Numbers\bin\Debug\Armstrong Numbers.exe
+E:\Pragnesh C#\Armstrong Numbers\Armstrong Numbers\bin\Debug\Armstrong Numbers.pdb
+E:\Pragnesh C#\Armstrong Numbers\Armstrong Numbers\obj\Debug\Armstrong Numbers.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Armstrong Numbers\Armstrong Numbers\obj\Debug\Armstrong Numbers.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Armstrong Numbers\Armstrong Numbers\obj\Debug\Armstrong Numbers.exe
+E:\Pragnesh C#\Armstrong Numbers\Armstrong Numbers\obj\Debug\Armstrong Numbers.pdb

@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Fibo practie\Fibo practie\bin\Debug\Fibo practie.exe.config
+E:\Pragnesh C#\Fibo practie\Fibo practie\bin\Debug\Fibo practie.exe
+E:\Pragnesh C#\Fibo practie\Fibo practie\bin\Debug\Fibo practie.pdb
+E:\Pragnesh C#\Fibo practie\Fibo practie\obj\Debug\Fibo practie.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Fibo practie\Fibo practie\obj\Debug\Fibo practie.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Fibo practie\Fibo practie\obj\Debug\Fibo practie.exe
+E:\Pragnesh C#\Fibo practie\Fibo practie\obj\Debug\Fibo practie.pdb

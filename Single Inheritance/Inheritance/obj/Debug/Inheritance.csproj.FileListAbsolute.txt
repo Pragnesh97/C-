@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+E:\Pragnesh C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+E:\Pragnesh C#\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+E:\Pragnesh C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+E:\Pragnesh C#\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

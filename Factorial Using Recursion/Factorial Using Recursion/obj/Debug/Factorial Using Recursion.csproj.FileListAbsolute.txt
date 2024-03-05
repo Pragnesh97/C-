@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Factorial Using Recursion\Factorial Using Recursion\obj\Debug\Factorial Using Recursion.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Factorial Using Recursion\Factorial Using Recursion\obj\Debug\Factorial Using Recursion.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Factorial Using Recursion\Factorial Using Recursion\bin\Debug\Factorial Using Recursion.exe.config
+E:\Pragnesh C#\Factorial Using Recursion\Factorial Using Recursion\bin\Debug\Factorial Using Recursion.exe
+E:\Pragnesh C#\Factorial Using Recursion\Factorial Using Recursion\bin\Debug\Factorial Using Recursion.pdb
+E:\Pragnesh C#\Factorial Using Recursion\Factorial Using Recursion\obj\Debug\Factorial Using Recursion.exe
+E:\Pragnesh C#\Factorial Using Recursion\Factorial Using Recursion\obj\Debug\Factorial Using Recursion.pdb

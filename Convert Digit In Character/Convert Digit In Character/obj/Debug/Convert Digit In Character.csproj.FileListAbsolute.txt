@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Convert Digit In Character\Convert Digit In Character\bin\Debug\Convert Digit In Character.exe.config
+E:\Pragnesh C#\Convert Digit In Character\Convert Digit In Character\bin\Debug\Convert Digit In Character.exe
+E:\Pragnesh C#\Convert Digit In Character\Convert Digit In Character\bin\Debug\Convert Digit In Character.pdb
+E:\Pragnesh C#\Convert Digit In Character\Convert Digit In Character\obj\Debug\Convert Digit In Character.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Convert Digit In Character\Convert Digit In Character\obj\Debug\Convert Digit In Character.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Convert Digit In Character\Convert Digit In Character\obj\Debug\Convert Digit In Character.exe
+E:\Pragnesh C#\Convert Digit In Character\Convert Digit In Character\obj\Debug\Convert Digit In Character.pdb

@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Employee Information\Employee Information\bin\Debug\Employee Information.exe.config
+E:\Pragnesh C#\Employee Information\Employee Information\bin\Debug\Employee Information.exe
+E:\Pragnesh C#\Employee Information\Employee Information\bin\Debug\Employee Information.pdb
+E:\Pragnesh C#\Employee Information\Employee Information\obj\Debug\Employee Information.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Employee Information\Employee Information\obj\Debug\Employee Information.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Employee Information\Employee Information\obj\Debug\Employee Information.exe
+E:\Pragnesh C#\Employee Information\Employee Information\obj\Debug\Employee Information.pdb

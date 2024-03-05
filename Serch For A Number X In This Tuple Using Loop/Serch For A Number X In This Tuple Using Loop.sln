@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serch For A Number X In This Tuple Using Loop", "Serch For A Number X In This Tuple Using Loop\Serch For A Number X In This Tuple Using Loop.csproj", "{BFC51BB1-907B-4866-97C2-5046F435C190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC51BB1-907B-4866-97C2-5046F435C190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC51BB1-907B-4866-97C2-5046F435C190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC51BB1-907B-4866-97C2-5046F435C190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC51BB1-907B-4866-97C2-5046F435C190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D252F1D-B04C-437D-9D47-482858A2679F}
+	EndGlobalSection
+EndGlobal

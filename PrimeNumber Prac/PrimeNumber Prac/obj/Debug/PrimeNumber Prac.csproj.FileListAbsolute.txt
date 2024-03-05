@@ -1,0 +1,7 @@
+E:\Pragnesh C#\PrimeNumber Prac\PrimeNumber Prac\bin\Debug\PrimeNumber Prac.exe.config
+E:\Pragnesh C#\PrimeNumber Prac\PrimeNumber Prac\bin\Debug\PrimeNumber Prac.exe
+E:\Pragnesh C#\PrimeNumber Prac\PrimeNumber Prac\bin\Debug\PrimeNumber Prac.pdb
+E:\Pragnesh C#\PrimeNumber Prac\PrimeNumber Prac\obj\Debug\PrimeNumber Prac.csproj.AssemblyReference.cache
+E:\Pragnesh C#\PrimeNumber Prac\PrimeNumber Prac\obj\Debug\PrimeNumber Prac.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\PrimeNumber Prac\PrimeNumber Prac\obj\Debug\PrimeNumber Prac.exe
+E:\Pragnesh C#\PrimeNumber Prac\PrimeNumber Prac\obj\Debug\PrimeNumber Prac.pdb

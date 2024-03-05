@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Calculator in Method\Calculator in Method\bin\Debug\Calculator in Method.exe.config
+E:\Pragnesh C#\Calculator in Method\Calculator in Method\bin\Debug\Calculator in Method.exe
+E:\Pragnesh C#\Calculator in Method\Calculator in Method\bin\Debug\Calculator in Method.pdb
+E:\Pragnesh C#\Calculator in Method\Calculator in Method\obj\Debug\Calculator in Method.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Calculator in Method\Calculator in Method\obj\Debug\Calculator in Method.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Calculator in Method\Calculator in Method\obj\Debug\Calculator in Method.exe
+E:\Pragnesh C#\Calculator in Method\Calculator in Method\obj\Debug\Calculator in Method.pdb
