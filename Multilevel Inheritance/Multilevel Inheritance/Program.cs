@@ -60,6 +60,8 @@ namespace Multilevel_Inheritance
             public void printmilege()
             {
                 Console.WriteLine("Milege Is =" + milege);
+               
+            
             }
         }
     

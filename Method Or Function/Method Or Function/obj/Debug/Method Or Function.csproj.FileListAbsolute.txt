@@ -1,0 +1,7 @@
+E:\Pragnesh C#\Method Or Function\Method Or Function\bin\Debug\Method Or Function.exe.config
+E:\Pragnesh C#\Method Or Function\Method Or Function\bin\Debug\Method Or Function.exe
+E:\Pragnesh C#\Method Or Function\Method Or Function\bin\Debug\Method Or Function.pdb
+E:\Pragnesh C#\Method Or Function\Method Or Function\obj\Debug\Method Or Function.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Method Or Function\Method Or Function\obj\Debug\Method Or Function.exe
+E:\Pragnesh C#\Method Or Function\Method Or Function\obj\Debug\Method Or Function.pdb
+E:\Pragnesh C#\Method Or Function\Method Or Function\obj\Debug\Method Or Function.csproj.AssemblyReference.cache
