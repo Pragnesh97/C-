@@ -5,3 +5,10 @@ E:\Pragnesh C#\Inheritance\Inheritance\obj\Debug\Single Inheritance.csproj.Assem
 E:\Pragnesh C#\Inheritance\Inheritance\obj\Debug\Single Inheritance.csproj.CoreCompileInputs.cache
 E:\Pragnesh C#\Inheritance\Inheritance\obj\Debug\Inheritance.exe
 E:\Pragnesh C#\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+E:\Pragnesh C#\Single Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+E:\Pragnesh C#\Single Inheritance\Inheritance\bin\Debug\Inheritance.exe
+E:\Pragnesh C#\Single Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+E:\Pragnesh C#\Single Inheritance\Inheritance\obj\Debug\Single Inheritance.csproj.AssemblyReference.cache
+E:\Pragnesh C#\Single Inheritance\Inheritance\obj\Debug\Single Inheritance.csproj.CoreCompileInputs.cache
+E:\Pragnesh C#\Single Inheritance\Inheritance\obj\Debug\Inheritance.exe
+E:\Pragnesh C#\Single Inheritance\Inheritance\obj\Debug\Inheritance.pdb

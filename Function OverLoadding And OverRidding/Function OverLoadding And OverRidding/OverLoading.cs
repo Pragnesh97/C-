@@ -9,7 +9,7 @@ namespace Function_OverLoadding_And_OverRidding
     //Function OverRidding
     class animal
     {
-        public virtual void  print()
+        public  void  print()
         {
             Console.WriteLine("Animal");
         }
@@ -17,7 +17,7 @@ namespace Function_OverLoadding_And_OverRidding
 
     class dog:animal
     { 
-       public override void print()
+       public  void print()
         {
             Console.WriteLine("Dog");
         }
